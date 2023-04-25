@@ -80,7 +80,7 @@ export default function App() {
         <small>
           Coded by Juliana Valencia,
           <a
-            href="https://github.com/JuliValencia/My-weather-app"
+            href="https://github.com/JuliValencia/weather-app-react"
             target="_blank"
             rel="noreferrer"
           >
