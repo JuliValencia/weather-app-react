@@ -51,7 +51,7 @@ export default function App() {
                   <a href="/" className="active">
                     °C
                   </a>{" "}
-                  |<a href="#">°F</a>
+                  |<a href="/">°F</a>
                 </span>
                 <span>
                   <img
